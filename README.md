@@ -10,7 +10,7 @@ This project implements an end-to-end text analytics pipeline on tweets. It addr
 - Topic modelling using LDA  
 
 ## Tools
-Python, scikit-learn, transformers, pandas, matplotlib
+Python, scikit-learn, transformers, numpy, pandas, matplotlib, seaborn, wordcloud, collections, re, string, nltk
 
 ## Outcomes
 Improved label quality, clearer topic separation, and interpretable sentiment-driven themes.
